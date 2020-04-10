@@ -4,3 +4,8 @@
 Por ahora solo Gamma cargó su parte, y sí lo veo
 ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si Alfa agrega un archivo se ve para los demas integrantes
+¿Si BETA agrega un archivo los demás integrantes lo ven?
+Beta no agrego nada aún
+¿cual es la mejor forma de comunicarse entre ustedes dentro de github, y de qué forma lo
+hicieron ustedes?
+Creamos un txt llamado chat para comunicarnos
